@@ -314,7 +314,7 @@ nav {
 
 .card-border-wrapper {
   position: relative;
-  height: 55%;
+  height: 55vh;
   display: inline-block; 
   /* padding: 5px; */
   border: 10px solid transparent;
